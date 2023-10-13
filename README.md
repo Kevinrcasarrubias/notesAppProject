@@ -1,1 +1,1 @@
-Note app proyect made with a firebase database
+Note app project made with a firebase database
